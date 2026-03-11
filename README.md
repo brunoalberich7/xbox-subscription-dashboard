@@ -42,12 +42,6 @@ The Excel dashboard includes the following elements:
 
 ---
 
-## Preview
-
-![Dashboard Preview](images/dashboard_preview.png)
-
----
-
 ## How to Reproduce
 
 1. Download the Excel file located in the **dashboard** folder.
